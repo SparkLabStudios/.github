@@ -1,10 +1,5 @@
-# Ryze Client
-Il client minecraft gratuito al 100%
-
-Stiamo lavorando a rendere open source parti del progetto.
-Per rimanere aggiornato visita il nostro Discord:
-
-https://dsc.gg/ryzeclient
+# ✨ SparkLab Studios
+WORK IN PROGRESS
 
 <!--
 
